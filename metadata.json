@@ -1,0 +1,6 @@
+{
+  "name": "DGLA Visualizer",
+  "description": "Plataforma de visualización interactiva 3D para el diseño ergonómico de cocinas gastronómicas según la metodología de DGLA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
